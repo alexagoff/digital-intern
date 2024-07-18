@@ -3,8 +3,8 @@
 ## Orientation to UO
 
 ### Onboarding Checklist
-- [ ] New hire forms
-- [ ] UO ID number and Personal Access Code (PAC) to access DuckWeb
+- [ ] New hire forms (with HR)
+- [ ] UO ID number and Personal Access Code (PAC) to access DuckWeb (should arrive via email)
 - [ ] [DuckID and Password](https://service.uoregon.edu/TDClient/2030/Portal/KB/ArticleDet?ID=33250) to access email, Canvas, and other university services
 - [ ] [DUO two-step login](https://service.uoregon.edu/TDClient/2030/Portal/KB/ArticleDet?ID=89166) to access Banner, and other university services
 - [ ] [Emergency contacts and alerts](https://safety.uoregon.edu/uo-alerts)
