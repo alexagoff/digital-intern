@@ -5,14 +5,13 @@
 ### Onboarding Checklist
 - [ ] New hire forms
 - [ ] UO ID number and Personal Access Code (PAC) to access DuckWeb
-- [ ] DuckID and Password to access email, Canvas, and other university services
-- [ ] DUO two-step login to access Banner, and other university services
-- [ ] Direct deposit (optional)
-- [ ] Emergency contacts and alerts
-- [ ] Email
-- [ ] ID card and keys
-- [ ] Sick time and HR policies
-- [ ] Payroll and time card
+- [ ] [DuckID and Password](https://service.uoregon.edu/TDClient/2030/Portal/KB/ArticleDet?ID=33250) to access email, Canvas, and other university services
+- [ ] [DUO two-step login](https://service.uoregon.edu/TDClient/2030/Portal/KB/ArticleDet?ID=89166) to access Banner, and other university services
+- [ ] [Emergency contacts and alerts](https://safety.uoregon.edu/uo-alerts)
+- [ ] [Email](https://service.uoregon.edu/TDClient/2030/Portal/KB/ArticleDet?ID=30852)
+- [ ] [ID card](https://service.uoregon.edu/TDClient/2030/Portal/KB/ArticleDet?ID=30852)
+- [ ] [Payroll](https://ba.uoregon.edu/payroll/payroll-information-for-employees) and [time card (UKG)](https://ba.uoregon.edu/ukg-ready-time-attendance)
+- [ ] Department keys and door code (request from Alexa)
 
 <br>
 
