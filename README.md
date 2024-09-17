@@ -9,7 +9,7 @@
 - [ ] [DUO two-step login](https://service.uoregon.edu/TDClient/2030/Portal/KB/ArticleDet?ID=89166) to access Banner, and other university services
 - [ ] [Emergency contacts and alerts](https://safety.uoregon.edu/uo-alerts)
 - [ ] [Email](https://service.uoregon.edu/TDClient/2030/Portal/KB/ArticleDet?ID=30852)
-- [ ] [ID card](https://service.uoregon.edu/TDClient/2030/Portal/KB/ArticleDet?ID=30852)
+- [ ] [ID card](https://emu.uoregon.edu/card)
 - [ ] [Payroll](https://ba.uoregon.edu/payroll/payroll-information-for-employees) and [time card (UKG)](https://ba.uoregon.edu/ukg-ready-time-attendance)
 - [ ] Department keys and door code (request from Alexa)
 
