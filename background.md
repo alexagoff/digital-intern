@@ -14,13 +14,13 @@ Overview of fixity checking.
 (various authors, 2012) 195pp<br>
 Long, some can be skimmed. Good case studies and templates. 
 
-[OSSArcFlow Guide to Documenting Born-Digital Archival Workflows](https://educopia.org/ossarcflow-guide/)<br>
+[OSSArcFlow Guide to Documenting Born-Digital Archival Workflows](https://educopia.org/research-project/ossarcflow/)<br>
 (IMLS, 2020) 61pp
 
 [Digital Preservation Handbook](https://www.dpconline.org/handbook)<br>
 (DPC, 2015) Review table of contents for future reference needs.
 
-[Digital Forensics and Born-Digital Content in Cultural Heritage Collections]( )<br>
+[Digital Forensics and Born-Digital Content in Cultural Heritage Collections](https://www.clir.org/pubs/reports/pub149/)<br>
 (CLIR, 2010) 62pp<br>
 An overview of the terminology and application of digital forensics to archival collections. Skim.
 
